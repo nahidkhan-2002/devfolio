@@ -26,7 +26,7 @@ const About = () => (
           connecting with people. I love sharing my journey and what I&apos;ve learned along the way.
         </p>
         <p>
-          Got something in mind or just want to chat? Whether it&apos;s a new project or a problem that's uncrackable, I&apos;d love to
+          Got something in mind or just want to chat? Whether it&apos;s a new project or a problem that&apos;s uncrackable, I&apos;d love to
           connect, don&apos;t be shy!
         </p>
       </Sparkle>
