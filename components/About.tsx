@@ -19,14 +19,14 @@ const About = () => (
         className="flex-col text-left p-3 md:p-5 lg:p-10 gap-5 min-h-full"
       >
         <p>
-          &quot;Hey! I&apos;m Atzin — web designer, developer, fitness lover somehow and accidental content creator.
+          &quot;Hey! I&apos;m Nahid — Graphics Designer,App Developer, Problem Solver somehow and Part-Time content creator.
         </p>
         <p>
           My background in design and development gives me the tools to bring ideas to life, but my heart is in
           connecting with people. I love sharing my journey and what I&apos;ve learned along the way.
         </p>
         <p>
-          Got something in mind or just want to chat? Whether it&apos;s a new project or a fitness tip, I&apos;d love to
+          Got something in mind or just want to chat? Whether it&apos;s a new project or a problem that's uncrackable, I&apos;d love to
           connect, don&apos;t be shy!
         </p>
       </Sparkle>
